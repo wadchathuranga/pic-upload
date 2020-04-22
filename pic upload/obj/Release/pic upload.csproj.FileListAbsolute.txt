@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\bin\Release\pic upload.exe.config
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\bin\Release\Database1.mdf
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\bin\Release\Database1_log.ldf
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\bin\Release\pic upload.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\bin\Release\pic upload.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic_upload.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic_upload.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic upload.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic upload.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic upload.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\pic upload\pic upload\obj\Release\pic upload.csprojResolveAssemblyReference.cache
